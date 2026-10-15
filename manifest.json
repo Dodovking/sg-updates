@@ -1,8 +1,8 @@
 {
-    "appVersion":  "1.0.5",
-    "appUrl":  "https://github.com/Dodovking/sg-updates/releases/download/v1.0.5/SentinelGuard-Setup-1.0.5.exe",
-    "appSha256":  "a80e1737c198d8d4c4fcf04d4a4895d1b425a6d034aa1a6049bc1b75dd56963b",
+    "appVersion":  "1.1.0",
+    "appUrl":  "https://github.com/Dodovking/sg-updates/releases/download/v1.1.0/SentinelGuard-Setup-1.1.0.exe",
+    "appSha256":  "9fc91e63462d73a8f9ab3fdb7db33389ab1727d09c5c695429ae3afd5297afd9",
     "signatureVersion":  "2026.10.10.1",
-    "signatureUrl":  "https://github.com/Dodovking/sg-updates/releases/download/v1.0.5/signatures.json",
+    "signatureUrl":  "https://github.com/Dodovking/sg-updates/releases/download/v1.1.0/signatures.json",
     "signatureSha256":  "257a6a01ba8aa4fe442049ad98332e8642db54ec6512bab09350f45bac7ef558"
 }
